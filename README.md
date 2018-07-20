@@ -3,8 +3,8 @@
 #### By Dhiraj Bhuyan
 
 Disclaimer - The views, thoughts, and opinions expressed in the book belong solely to the author, and should not in any way be attributed to the author’s employer, or to the author as a representative, officer or employee of any organisation.
-
-#### About the Book:
+<br><br>
+### About the Book:
 <img align="right" src="bookcover.jpeg" title="book cover">
 
 “Practical Data Analysis – Using Open Source Tools & Techniques” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
@@ -19,13 +19,11 @@ Disclaimer - The views, thoughts, and opinions expressed in the book belong sole
 8.	Forecasting - Using Data to Map the Future.
 9.	Continuous Monitoring and Real-Time Analytics.
 
-Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N
-
+Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N <br>
 Apple iBook - http://itunes.apple.com/us/book/id1413645989
 
-</p>
-
-#### Purpose of the Book:
+<br><br>
+### Purpose of the Book:
 I have been working in the financial services industry for more than a decade, specialising in the review and assessment of complex banking platforms, business process automation and data. Working in an environment where almost all business activities inevitably leads to the creation, deletion or modification of some data in a system or digital repository, I had the opportunity to experience firsthand the benefits as well as the challenges that big data analytics presents.
 
 During the past decade, data science concepts have also become more mainstream; and thanks to the tireless efforts and generosity of a great army of data enthusiasts, scientists, researchers and software developers, that a wide range of very powerful open source data analysis tools and techniques are now available for everyone to use and benefit from.
