@@ -22,7 +22,7 @@ Disclaimer - The views, thoughts, and opinions expressed in the book belong sole
 Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N <br>
 Apple iBook - http://itunes.apple.com/us/book/id1413645989
 
-<br><br>
+<br>
 ### Purpose of the Book:
 I have been working in the financial services industry for more than a decade, specialising in the review and assessment of complex banking platforms, business process automation and data. Working in an environment where almost all business activities inevitably leads to the creation, deletion or modification of some data in a system or digital repository, I had the opportunity to experience firsthand the benefits as well as the challenges that big data analytics presents.
 
@@ -32,3 +32,4 @@ As our society, government institutions and businesses become more and more data
 
 While a large number of technical books have been written about open source data analysis tools and techniques, information on how they can be practically applied in our day to day work remains scattered in various Internet blog posts, online discussion forums and technical manuals. And every time a friend or a colleague asks me to recommend a book that will help them with some of the practical aspects of applying data analysis concepts in their everyday work, I struggle to name one. Hence, I decided to write this book, which I sincerely hope will fill this gap and inspire many to start thinking about how data analysis tools and techniques can assist them, not only in their workplace, but also in their day to day lives.
 
+Dhiraj Bhuyan, 19 July 2018
