@@ -18,6 +18,7 @@ Disclaimer - The views, thoughts, and opinions expressed in the book belong sole
 9.	Continuous Monitoring and Real-Time Analytics.
 
 Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N
+
 Apple iBook - http://itunes.apple.com/us/book/id1413645989
 
 
