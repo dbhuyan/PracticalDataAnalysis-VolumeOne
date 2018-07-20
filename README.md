@@ -6,6 +6,7 @@
 
 Disclaimer - The views, thoughts, and opinions expressed in the book belong solely to the author, and should not in any way be attributed to the author’s employer, or to the author as a representative, officer or employee of any organisation.
 <br><br>
+
 ### About the Book:
 “Practical Data Analysis – Using Open Source Tools & Techniques” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
 
@@ -20,7 +21,7 @@ Disclaimer - The views, thoughts, and opinions expressed in the book belong sole
 9.	Continuous Monitoring and Real-Time Analytics.
 
 Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N <br>
-Apple iBook - http://itunes.apple.com/us/book/id1413645989 <br>
+Apple iBook Link - http://itunes.apple.com/us/book/id1413645989 <br>
 
 
 ### Purpose of the Book:
