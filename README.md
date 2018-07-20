@@ -2,11 +2,11 @@
 ### Using Open Source Tools & Techniques - Volume I (Beginner's Guide)
 #### By Dhiraj Bhuyan
 
+<img align="right" src="bookcover.jpeg" title="book cover">
+
 Disclaimer - The views, thoughts, and opinions expressed in the book belong solely to the author, and should not in any way be attributed to the author’s employer, or to the author as a representative, officer or employee of any organisation.
 <br><br>
 ### About the Book:
-<img align="right" src="bookcover.jpeg" title="book cover">
-
 “Practical Data Analysis – Using Open Source Tools & Techniques” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
 
 1.	Open Source Data Analysis Tools and Techniques.
@@ -32,4 +32,4 @@ As our society, government institutions and businesses become more and more data
 
 While a large number of technical books have been written about open source data analysis tools and techniques, information on how they can be practically applied in our day to day work remains scattered in various Internet blog posts, online discussion forums and technical manuals. And every time a friend or a colleague asks me to recommend a book that will help them with some of the practical aspects of applying data analysis concepts in their everyday work, I struggle to name one. Hence, I decided to write this book, which I sincerely hope will fill this gap and inspire many to start thinking about how data analysis tools and techniques can assist them, not only in their workplace, but also in their day to day lives.
 
-Dhiraj Bhuyan, 19 July 2018
+###### Dhiraj Bhuyan, 19 July 2018
