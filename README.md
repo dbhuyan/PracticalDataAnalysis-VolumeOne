@@ -5,6 +5,11 @@
 Disclaimer - The views, thoughts, and opinions expressed in the book belong solely to the author, and should not in any way be attributed to the author’s employer, or to the author as a representative, officer or employee of any organisation.
 
 #### About the Book:
+<p align="right">
+  <img style="padding: 0 15px; float: right;" src="bookcover.jpeg" title="book cover">
+</p>
+<p style="margin-top: 20px;"> </p>
+<p>
 “Practical Data Analysis – Using Open Source Tools & Techniques” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
 
 1.	Open Source Data Analysis Tools and Techniques.
@@ -21,8 +26,6 @@ Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N
 
 Apple iBook - http://itunes.apple.com/us/book/id1413645989
 
-<p align="left">
-  <img src="bookcover.jpeg" title="book cover">
 </p>
 
 #### Purpose of the Book:
