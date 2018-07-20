@@ -20,9 +20,9 @@ Disclaimer - The views, thoughts, and opinions expressed in the book belong sole
 9.	Continuous Monitoring and Real-Time Analytics.
 
 Amazon Link (Kindle Only) - https://www.amazon.co.uk/dp/B07FNHT42N <br>
-Apple iBook - http://itunes.apple.com/us/book/id1413645989
+Apple iBook - http://itunes.apple.com/us/book/id1413645989 <br>
 
-<br>
+
 ### Purpose of the Book:
 I have been working in the financial services industry for more than a decade, specialising in the review and assessment of complex banking platforms, business process automation and data. Working in an environment where almost all business activities inevitably leads to the creation, deletion or modification of some data in a system or digital repository, I had the opportunity to experience firsthand the benefits as well as the challenges that big data analytics presents.
 
