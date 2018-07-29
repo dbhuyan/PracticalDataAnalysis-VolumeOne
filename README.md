@@ -7,6 +7,11 @@
 Disclaimer - The views, thoughts, and opinions expressed in the book belong solely to the author, and should not in any way be attributed to the author’s employer, or to the author as a representative, officer or employee of any organisation.
 <br><br>
 
+### Free samples from the Book
+1. Can a machine learn our language? - https://dhirajbhuyan.blogspot.com/2018/07/can-machine-learn-our-language.html
+2. Is it time to reboot our approach to fraud detection? - https://dhirajbhuyan.blogspot.com/2018/07/is-it-time-to-reboot-our-approach-to.html
+
+
 ### About the Book:
 “Practical Data Analysis – Using Open Source Tools & Techniques” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
 
