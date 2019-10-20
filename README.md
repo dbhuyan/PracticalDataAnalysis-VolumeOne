@@ -2,7 +2,7 @@
 ### Using Python & Open Source Technology
 #### By Dhiraj Bhuyan
 
-<img align="right" src="bookcover.jpeg" title="book cover">
+<img align="right" src="bookcover.jpg" title="book cover">
 
 Disclaimer - The views, thoughts, and opinions expressed in the book belong solely to the author, and should not in any way be attributed to the author’s employer, or to the author as a representative, officer or employee of any organisation.
 <br><br>
