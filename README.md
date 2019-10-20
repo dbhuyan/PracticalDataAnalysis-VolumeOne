@@ -1,5 +1,5 @@
 ## Practical Data Analysis
-### Using Open Source Tools & Techniques - Volume I (Beginner's Guide)
+### Using Python & Open Source Technology
 #### By Dhiraj Bhuyan
 
 <img align="right" src="bookcover.jpeg" title="book cover">
@@ -8,12 +8,12 @@ Disclaimer - The views, thoughts, and opinions expressed in the book belong sole
 <br><br>
 
 ### Free samples from the Book
-1. Can a machine learn our language? - https://dhirajbhuyan.blogspot.com/2018/07/can-machine-learn-our-language.html
-2. Is it time to reboot our approach to fraud detection? - https://dhirajbhuyan.blogspot.com/2018/07/is-it-time-to-reboot-our-approach-to.html
+1. Can a machine learn our language? - https://www.linkedin.com/pulse/can-machine-learn-our-language-dhiraj-bhuyan/
+2. Is it time to reboot our approach to fraud detection? - https://www.linkedin.com/pulse/time-reboot-our-approach-fraud-detection-dhiraj-bhuyan/
 
 
 ### About the Book:
-“Practical Data Analysis – Using Open Source Tools & Techniques” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
+“Practical Data Analysis – Using Python & Open Source Technology” uses a case-study based approach to explore some of the real-world applications of open source data analysis tools and techniques. Specifically, the following topics are covered in this book:
 
 1.	Open Source Data Analysis Tools and Techniques.
 2.	A Beginner’s Guide to “Python” for Data Analysis.
